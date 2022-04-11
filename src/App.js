@@ -6,10 +6,10 @@ function App() {
   return (
     <>
     <Navbar title='TextUtils'  about='AboutTextUtils'/>
-    <div className="container"><TextForm heading='Enter Text To analize'/></div>
+    <div className="container"><TextForm heading='Your Text Here To Check'/></div>
     
     </>
-    
+  
   );
 }
 
